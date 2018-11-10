@@ -8,4 +8,5 @@ setup(name='cicurve',
       author_email='ikulesj@gmail.com',
       license='MIT',
       packages=['cicurve'],
-      zip_safe=False)
+      zip_safe=False,
+      install_requires=['sympy'])
